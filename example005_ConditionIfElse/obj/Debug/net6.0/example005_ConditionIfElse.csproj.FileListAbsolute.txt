@@ -1,0 +1,15 @@
+C:\Users\Albina\Desktop\examples\example005_ConditionIfElse\bin\Debug\net6.0\example005_ConditionIfElse.exe
+C:\Users\Albina\Desktop\examples\example005_ConditionIfElse\bin\Debug\net6.0\example005_ConditionIfElse.deps.json
+C:\Users\Albina\Desktop\examples\example005_ConditionIfElse\bin\Debug\net6.0\example005_ConditionIfElse.runtimeconfig.json
+C:\Users\Albina\Desktop\examples\example005_ConditionIfElse\bin\Debug\net6.0\example005_ConditionIfElse.dll
+C:\Users\Albina\Desktop\examples\example005_ConditionIfElse\bin\Debug\net6.0\example005_ConditionIfElse.pdb
+C:\Users\Albina\Desktop\examples\example005_ConditionIfElse\obj\Debug\net6.0\example005_ConditionIfElse.csproj.AssemblyReference.cache
+C:\Users\Albina\Desktop\examples\example005_ConditionIfElse\obj\Debug\net6.0\example005_ConditionIfElse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Albina\Desktop\examples\example005_ConditionIfElse\obj\Debug\net6.0\example005_ConditionIfElse.AssemblyInfoInputs.cache
+C:\Users\Albina\Desktop\examples\example005_ConditionIfElse\obj\Debug\net6.0\example005_ConditionIfElse.AssemblyInfo.cs
+C:\Users\Albina\Desktop\examples\example005_ConditionIfElse\obj\Debug\net6.0\example005_ConditionIfElse.csproj.CoreCompileInputs.cache
+C:\Users\Albina\Desktop\examples\example005_ConditionIfElse\obj\Debug\net6.0\example005_ConditionIfElse.dll
+C:\Users\Albina\Desktop\examples\example005_ConditionIfElse\obj\Debug\net6.0\refint\example005_ConditionIfElse.dll
+C:\Users\Albina\Desktop\examples\example005_ConditionIfElse\obj\Debug\net6.0\example005_ConditionIfElse.pdb
+C:\Users\Albina\Desktop\examples\example005_ConditionIfElse\obj\Debug\net6.0\example005_ConditionIfElse.genruntimeconfig.cache
+C:\Users\Albina\Desktop\examples\example005_ConditionIfElse\obj\Debug\net6.0\ref\example005_ConditionIfElse.dll
